@@ -23,4 +23,4 @@ class VkTools():
 
 if __name__ == '__main__':
      tools = VkTools(acces_token)
-     print(tools.get_profile_info(203056408))
+     print(tools.get_profile_info(5555555555))
